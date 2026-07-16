@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Capture"
+  short_description: "실제 UI 화면을 캡처해 신뢰할 수 있는 QA 증거로 제공합니다"
+  default_prompt: "Use $image-capture to capture the changed UI from the active browser."

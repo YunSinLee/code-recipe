@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR 브랜치 동기화"
+  short_description: "현재 워크트리를 PR 헤드 브랜치로 안전하게 맞춥니다"
+  default_prompt: "Use $pr-review-branch-sync to align this worktree with the PR head branch."

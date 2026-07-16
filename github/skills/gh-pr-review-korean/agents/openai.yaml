@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 PR 리뷰"
+  short_description: "PR을 동기화해 한국어로 필요한 지적만 남깁니다"
+  default_prompt: "Use $gh-pr-review-korean to review this PR in Korean and prepare only actionable inline comments."

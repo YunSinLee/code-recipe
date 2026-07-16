@@ -1,0 +1,4 @@
+interface:
+  display_name: "스크린샷 포함 PR 작성"
+  short_description: "GitHub 첨부 이미지로 PR 본문을 작성하고 검증합니다"
+  default_prompt: "Use $write-pr-with-images to update this PR with verified screenshots."

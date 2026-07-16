@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR 셀프리뷰 코멘트"
+  short_description: "리뷰어가 빠르게 읽도록 PR 인라인 설명을 남깁니다"
+  default_prompt: "Use $gh-self-review-comments to add concise reviewer-facing comments to my current PR."

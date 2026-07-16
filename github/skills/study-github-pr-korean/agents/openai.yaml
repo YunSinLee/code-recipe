@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 PR 학습"
+  short_description: "PR을 한국어 학습 흐름으로 나누어 설명합니다"
+  default_prompt: "Use $study-github-pr-korean to teach me this PR step by step in Korean."
