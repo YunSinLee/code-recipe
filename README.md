@@ -15,6 +15,7 @@ Install a single skill by selecting its `SKILL.md` directory through the same to
 ## Skills
 
 - `browser/skills/image-capture`: capture real UI as review or QA evidence.
+- `github/skills/git-gh-default-workflow`: use native Git locally and `gh` for GitHub operations.
 - `github/skills/pr-review-branch-sync`: align the current worktree to a PR head branch.
 - `github/skills/gh-pr-review-korean`: review a PR in Korean and prepare only actionable findings.
 - `github/skills/study-github-pr-korean`: turn a PR into a Korean learning walkthrough.
