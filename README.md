@@ -15,6 +15,7 @@ Install a single skill by selecting its `SKILL.md` directory through the same to
 ## Skills
 
 - `browser/skills/image-capture`: capture real UI as review or QA evidence.
+- `engineering/skills/test-review`: review test value, meaningful protection, and unnecessary complexity without editing code.
 - `github/skills/git-gh-default-workflow`: use native Git locally and `gh` for GitHub operations.
 - `github/skills/pr-review-branch-sync`: align the current worktree to a PR head branch.
 - `github/skills/gh-pr-review-korean`: review a PR in Korean and prepare only actionable findings.
